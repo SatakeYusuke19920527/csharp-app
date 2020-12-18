@@ -1,0 +1,15 @@
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.deps.json
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.runtimeconfig.json
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.runtimeconfig.dev.json
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.dll
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/bin/Debug/net5.0/ref/HelloWorldApp.dll
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.pdb
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.csprojAssemblyReference.cache
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.AssemblyInfo.cs
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.dll
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/ref/HelloWorldApp.dll
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.pdb
+/Users/s.y/dev/04.dotnet/csharp-app/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.genruntimeconfig.cache
